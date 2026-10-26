@@ -4,3 +4,5 @@ checkpoint/
 example/
 result/
 .DS_Store
+corpus/GuitarSet/
+corpus/Synth/
